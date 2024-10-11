@@ -9,9 +9,9 @@
         "stock": 94,
         "brand": "Apple",
         "category": "smartphones",
-        "thumbnail": "/public/images/iphone9.jpeg",
+        "thumbnail": "/images/iphone9 thumbnail.jpeg",
         "images": [
-            "/public/images/iphone9.jpeg"
+            "/images/iphone9 thumbnail.jpeg"
         ]
     },
     {
@@ -24,9 +24,9 @@
         "stock": 34,
         "brand": "Apple",
         "category": "smartphones",
-        "thumbnail": "/public/images/iPhone X.jpeg",
+        "thumbnail": "/images/iPhone X thumbnail.jpeg",
         "images": [
-           "/public/images/iPhone X.jpeg"
+           "/images/iPhone X thumbnail.jpeg"
         ]
     },
     {
@@ -39,9 +39,9 @@
         "stock": 36,
         "brand": "Samsung",
         "category": "smartphones",
-        "thumbnail": "/public/images/Samsung Universe 9.jpeg",
+        "thumbnail": "/images/Samsung Universe 9 thumbnail.jpeg",
         "images": [
-            "/public/images/Samsung Universe 9.jpeg"
+            "/images/Samsung Universe 9 thumbnail.jpeg"
         ]
     },
     {
@@ -54,9 +54,9 @@
         "stock": 123,
         "brand": "OPPO",
         "category": "smartphones",
-        "thumbnail": "/public/images/oppo f19.jpeg",
+        "thumbnail": "/images/oppo f19 thumbnail.jpeg",
         "images": [
-            "/public/images/oppo f19.jpeg"
+            "/images/oppo f19 thumbnail.jpeg"
         ]
     },
     {
@@ -69,10 +69,13 @@
         "stock": 32,
         "brand": "Huawei",
         "category": "smartphones",
-        "thumbnail": "/public/images/Huawei.jpeg",
-        "images": [
-            "/public/images/Huawei.jpeg"
-        ]
+        "thumbnail": "/images/Huawei thumbnail.jpeg",      
+        "images":[
+            "/images/Huawei thumbnail.jpeg"
+           ]
+
+            
+        
     }
 ]
 
